@@ -1,0 +1,12 @@
+{
+  "areas": {
+    "fridge": [
+      "cheese",
+      "ham"
+    ]
+  },
+  "food": {
+    "cheese": "1 block of cheese",
+    "ham": "half a packet of sliced ham"
+  }
+}
