@@ -3,18 +3,26 @@
     "fridge": [
       "cheese",
       "ham",
-      "fruit"
+      "fruit",
+      "butter",
+      "chicken"
     ],
     "cupboard": [
       "chocolate",
-      "bread"
-    ]
+      "bread",
+      "potatoes"
+    ],
+    "freezer": []
   },
   "food": {
     "cheese": "1 block of cheese",
     "ham": "half a packet of sliced ham",
     "chocolate": "3 bars of dark chocolate",
-    "fruit": "an orange and 3 bananas"
+    "fruit": "an orange and 3 bananas",
+    "bread": "a loaf of brown bread",
+    "butter": "some butter",
+    "chicken": "two chicken breasts",
+    "potatoes": "a bag of potatoes"
   },
   "recipes": {
     "breakfast": [
@@ -23,10 +31,10 @@
     "lunch": [
       "cheese and ham sandwich"
     ],
-    "dinner": [],
-    "dessert": [
-      "chocolate"
+    "dinner": [
+      "chicken and chips"
     ],
+    "dessert": [],
     "snack": [
       "chocolate",
       "fruit"
