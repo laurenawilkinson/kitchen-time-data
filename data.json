@@ -2,11 +2,34 @@
   "areas": {
     "fridge": [
       "cheese",
-      "ham"
+      "ham",
+      "fruit"
+    ],
+    "cupboard": [
+      "chocolate",
+      "bread"
     ]
   },
   "food": {
     "cheese": "1 block of cheese",
-    "ham": "half a packet of sliced ham"
+    "ham": "half a packet of sliced ham",
+    "chocolate": "3 bars of dark chocolate",
+    "fruit": "an orange and 3 bananas"
+  },
+  "recipes": {
+    "breakfast": [
+      "toast"
+    ]
+    "lunch": [
+      "cheese and ham sandwich"
+    ],
+    "dinner": [],
+    "dessert": [
+      "chocolate"
+    ],
+    "snack": [
+      "chocolate",
+      "fruit"
+    ]
   }
 }
