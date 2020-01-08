@@ -15,14 +15,42 @@
     "freezer": []
   },
   "food": {
-    "cheese": "1 block of cheese",
-    "ham": "half a packet of sliced ham",
-    "chocolate": "3 bars of dark chocolate",
-    "fruit": "an orange and 3 bananas",
-    "bread": "a loaf of brown bread",
-    "butter": "some butter",
-    "chicken": "two chicken breasts",
-    "potatoes": "a bag of potatoes"
+    "cheese": {
+      "value": "1 block of cheese",
+      "expired": false
+    },
+    "ham": {
+      "value": "half a packet of sliced ham",
+      "expired": false
+    },
+    "chocolate": {
+      "value": "3 bars of dark chocolate",
+      "expired": false
+    },
+    "fruit": {
+      "value": "an orange and 3 bananas",
+      "expired": false
+    },
+    "bread": {
+      "value": "a loaf of brown bread",
+      "expired": false
+    },
+    "butter": {
+      "value": "some butter",
+      "expired": true
+    },
+    "chicken": {
+      "value": "two chicken breasts",
+      "expired": false
+    },
+    "potatoes": {
+      "value": "a bag of potatoes",
+      "expired": false
+    },
+    "onion": {
+      "value": "an onion",
+      "expired": true
+    }
   },
   "recipes": {
     "breakfast": [
