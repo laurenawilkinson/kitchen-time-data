@@ -39,5 +39,10 @@
       "chocolate",
       "fruit"
     ]
+  },
+  "drinks": {
+    "coffee": "coffee machine",
+    "tea": "kettle",
+    "hot-chocolate": "kettle"
   }
 }
