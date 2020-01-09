@@ -41,7 +41,7 @@
     },
     "chicken": {
       "value": "two chicken breasts",
-      "expired": false
+      "expired": true
     },
     "potatoes": {
       "value": "a bag of potatoes",
